@@ -1,0 +1,23 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "title": "U15 Training",
+    "day": "Monday",
+    "time": "6:00 PM",
+    "location": "Voisey Brook Field"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "title": "U13 Match vs St. Lawrence",
+    "day": "Wednesday",
+    "time": "7:30 PM",
+    "location": "PCSP Main Field"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "title": "Coaches Meeting",
+    "day": "Friday",
+    "time": "5:30 PM",
+    "location": "Clubhouse"
+  }
+]
